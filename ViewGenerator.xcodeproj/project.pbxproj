@@ -13,6 +13,7 @@
 		CE98136A24150AB400032E78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE98136824150AB400032E78 /* Main.storyboard */; };
 		CE98136C24150AB400032E78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE98136B24150AB400032E78 /* Assets.xcassets */; };
 		CE98136F24150AB400032E78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE98136D24150AB400032E78 /* LaunchScreen.storyboard */; };
+		CE98137724150E6100032E78 /* GeneratorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE98137624150E6100032E78 /* GeneratorController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CE98136B24150AB400032E78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE98136E24150AB400032E78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE98137024150AB400032E78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE98137624150E6100032E78 /* GeneratorController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneratorController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CE98136224150AB400032E78 /* AppDelegate.swift */,
 				CE98136424150AB400032E78 /* SceneDelegate.swift */,
 				CE98136624150AB400032E78 /* ViewController.swift */,
+				CE98137624150E6100032E78 /* GeneratorController.swift */,
 				CE98136824150AB400032E78 /* Main.storyboard */,
 				CE98136B24150AB400032E78 /* Assets.xcassets */,
 				CE98136D24150AB400032E78 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				CE98136724150AB400032E78 /* ViewController.swift in Sources */,
 				CE98136324150AB400032E78 /* AppDelegate.swift in Sources */,
 				CE98136524150AB400032E78 /* SceneDelegate.swift in Sources */,
+				CE98137724150E6100032E78 /* GeneratorController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
